@@ -37,7 +37,3 @@ Visualize the results for better understanding and decision-making.
 
 ### It is useful for traders and analysts looking to explore pairs trading opportunities and classify market behavior.
 
-
-
-This script is a quantitative analysis tool designed to:
-
